@@ -2,7 +2,7 @@
 public class Orders
 {
     public void AddOrder() => Console.WriteLine("New order added successfully!");
-    public void UpdateOrder() => Console.WriteLine("Order updated!");
+    public void UpdateOrder() => Console.WriteLine("Order updated successfully!");
 
 }
 //2. İcra ediləcək hər bir əmr standart interfeysə malik olmalıdır
